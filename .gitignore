@@ -1,0 +1,8 @@
+yolo/*.weights
+yolo/*.weights
+__pycache__/
+*.pyc
+.vscode/
+*.png
+*.jpg
+*.json
